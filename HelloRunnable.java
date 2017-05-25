@@ -1,5 +1,7 @@
 /* This example not only illustrates creation of thread using Runnable interface 
 * but also introduces concept of anonymous object instantiation . 
+* Author : Pradhan Rishi Sharma
+* Email : pradhanrishi10@gmail.com
 */
 
 
